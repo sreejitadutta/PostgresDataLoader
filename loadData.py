@@ -75,16 +75,3 @@ try:
 finally:
     conn.close()
    
-
-
-
-
-
-
-
-
-
-
-
-    
-
